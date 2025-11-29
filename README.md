@@ -170,6 +170,6 @@ RENDIMIENTO DEL MODELO:
 
 ## Autor
 
-Carlos Armando Medina Ascecncio
+Carlos Armando Medina
 
 Proyecto desarrollado como práctica de Machine Learning para predicción meteorológica.
