@@ -28,7 +28,7 @@ TARGET_MAE = 0.2
 OPENWEATHER_API_KEY = "" # CONFIGURA AQUÍ TU API KEY
 
 # Directorios
-BASE_DIR = os.path.join(os.path.dirname(__file__), "temperatura_lindavistav3")
+BASE_DIR = os.path.join(os.path.dirname(__file__), "data_models") #Configurar ruta base para guardar modelos y datos
 os.makedirs(BASE_DIR, exist_ok=True)
 
 
